@@ -1,5 +1,5 @@
 # COVID19
-Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning
+Detecting COVID-19 from Chest X-Rays with Keras, TensorFlow, and Deep Learning
 
 My goal is simply to inspire you and open your eyes to how studying computer vision/deep learning and then applying that knowledge to the medical field can make a big impact on the world.
 
